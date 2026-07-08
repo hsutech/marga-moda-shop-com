@@ -1,6 +1,8 @@
-# margamodashop.com
+# marga-moda-shop-com
 
-Static site for margamodashop.com.
+Eleventy / 11ty source site.
 
-Source factory repository: git@github.com:erikhsu70/pbns.git
-Cloudflare Pages project: marga-moda-shop-com
+- Source: `src/`
+- Build command: `npm run build`
+- Output: `dist/`
+- Cloudflare Pages project: `marga-moda-shop-com`
