@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://margamodashop.com/sitemap.xml
