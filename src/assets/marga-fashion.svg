@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 760"><rect width="960" height="760" fill="#f3efea"/><rect x="92" y="82" width="776" height="570" rx="18" fill="#fbfaf8"/><path d="M214 162h520" stroke="#272927" stroke-width="14" stroke-linecap="round"/><path d="M282 162v380M666 162v380" stroke="#272927" stroke-width="9" stroke-linecap="round"/><path d="M382 174c0 42-54 52-70 116l-46 218h226l-48-218c-14-64-62-74-62-116z" fill="#8f6c75"/><path d="M546 188c-22 70-38 122-90 166 58 32 76 78 98 160h156c-22-108-56-194-84-326h-80z" fill="#686f62"/><circle cx="704" cy="500" r="58" fill="#d8a7ad"/><path d="M654 500c7 45 24 76 50 76s43-31 50-76" fill="none" stroke="#272927" stroke-width="8"/><rect x="156" y="530" width="150" height="74" rx="10" fill="#272927"/><circle cx="194" cy="567" r="10" fill="#fbfaf8"/><circle cx="266" cy="567" r="10" fill="#fbfaf8"/><text x="130" y="704" font-family="Georgia,serif" font-size="42" fill="#272927">Moda y complementos para mujer</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 760" role="img" aria-labelledby="t d">
+  <title id="t">Marga Moda storefront editorial</title>
+  <desc id="d">Boutique storefront with mirrors, folded garments and accessory display.</desc>
+  <rect width="960" height="760" fill="#fbf4ef"/>
+  <rect x="84" y="78" width="792" height="600" rx="6" fill="#fffdf9" stroke="#e7d7ce" stroke-width="4"/>
+  <rect x="128" y="126" width="312" height="456" rx="4" fill="#f1dfd7"/>
+  <rect x="168" y="166" width="232" height="376" rx="116" fill="#fffaf7" stroke="#2b2420" stroke-width="7"/>
+  <path d="M214 514c38-46 102-46 140 0" fill="none" stroke="#a14f40" stroke-width="12" stroke-linecap="round"/>
+  <rect x="492" y="142" width="292" height="88" rx="3" fill="#2b2420"/>
+  <text x="526" y="198" font-family="Helvetica,Arial,sans-serif" font-size="30" font-weight="700" fill="#fffdf9">Marga Moda</text>
+  <rect x="492" y="276" width="124" height="162" rx="6" fill="#a14f40"/>
+  <rect x="642" y="276" width="142" height="162" rx="6" fill="#d6b2a4"/>
+  <path d="M518 476h266" stroke="#2b2420" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="532" cy="534" r="30" fill="#ead8ce" stroke="#2b2420" stroke-width="6"/>
+  <rect x="586" y="508" width="92" height="62" rx="12" fill="#2b2420"/>
+  <path d="M604 508c8-28 50-28 58 0" fill="none" stroke="#fffdf9" stroke-width="6"/>
+  <circle cx="732" cy="538" r="34" fill="#8c6b62"/>
+  <text x="126" y="704" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#2b2420">Moda seleccionada en tienda</text>
+</svg>
