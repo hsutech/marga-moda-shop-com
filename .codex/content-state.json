@@ -1,0 +1,49 @@
+{
+  "domain": "margamodashop.com",
+  "lastRunAt": "2026-07-17T00:00:00+02:00",
+  "items": [
+    {
+      "keyword": "mejores tiendas de ropa en Petrer",
+      "priority": "Alta",
+      "slug": "mejores-tiendas-ropa-petrer",
+      "title": "Mejores tiendas de ropa en Petrer: guia con 7 opciones",
+      "url": "https://margamodashop.com/blog/mejores-tiendas-ropa-petrer/",
+      "status": "pending_verification",
+      "selectedAt": "2026-07-17",
+      "publishedAt": null,
+      "commit": null,
+      "serp": {
+        "market": "Google ES / Petrer, Elda y Alicante",
+        "language": "Español",
+        "observations": [
+          "La keyword exacta devuelve pocos contenidos editoriales utiles y mezcla directorios locales, fichas de comercios, asociaciones y resultados de moda de localidades cercanas.",
+          "La intencion dominante es local/comercial: el usuario quiere decidir que tienda visitar, que opciones revisar y como comparar boutiques, cadenas, multimarca y especialistas en evento.",
+          "Los primeros resultados relevantes son directorios o fichas cortas con datos de contacto; no suelen aportar metodologia, tabla comparativa, FAQ, ni criterios para evitar compras poco utiles.",
+          "Gap detectado: falta una guia BOFU en español que explique criterios practicos y opciones locales sin inventar rankings, reseñas, precios ni experiencia personal.",
+          "La cobertura elegida es guia-listicle de unas 1.800 palabras con respuesta directa, tabla de contenidos, comparativa, FAQs, enlaces internos a categorias y fuentes locales."
+        ],
+        "sources": [
+          "https://www.cylex.es/petrer/tiendas%2Bde%2Bropa%2Bpara%2Bmujer.html",
+          "https://www.cylex.es/petrer/tienda-de-ropa/",
+          "https://www.paginasamarillas.es/a/tiendas-de-moda/alicante/petrer/",
+          "https://comerciopetrer.es/listing/marga-moda-y-complementos/",
+          "https://asociacioncomerciantesdepetrer.es/index.php/pelicano-confecciones/",
+          "https://asociacioncomerciantesdepetrer.es/index.php/josefa-moda-y-complementos-2-avenida-reina-sofia/",
+          "https://petrer.es/",
+          "https://cadenaser.com/comunitat-valenciana/2026/07/16/el-pp-de-petrer-anuncia-el-regreso-de-los-bonos-consumo-con-una-aportacion-provincial-de-454224-euros-radio-elda/"
+        ]
+      },
+      "internalLinks": [
+        "/collections/vestidos-y-monos/",
+        "/collections/bolsos/",
+        "/collections/complementos/",
+        "/collections/calzado/",
+        "/collections/ropa/",
+        "/tiendas/"
+      ],
+      "assets": [
+        "/assets/mejores-tiendas-ropa-petrer.jpg"
+      ]
+    }
+  ]
+}
