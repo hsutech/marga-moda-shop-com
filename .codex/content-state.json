@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-07-17T00:00:00+02:00",
+  "lastRunAt": "2026-07-20T14:11:52+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -51,8 +51,11 @@
       "slug": "mejores-tiendas-ropa-elda",
       "title": "Mejores tiendas de ropa en Elda: guia con 7 opciones",
       "url": "https://margamodashop.com/blog/mejores-tiendas-ropa-elda/",
-      "status": "selected",
+      "status": "published",
       "selectedAt": "2026-07-20",
+      "publishedAt": "2026-07-20",
+      "verifiedAt": "2026-07-20T14:11:52+02:00",
+      "commit": "1c7af7a",
       "serp": {
         "market": "Google ES / Petrer, Elda y Alicante",
         "language": "Español",
