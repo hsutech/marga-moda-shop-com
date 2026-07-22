@@ -96,5 +96,43 @@
         "/assets/mejores-tiendas-ropa-elda.jpg"
       ]
     }
+  ],
+  "extraCampaigns": [
+    {
+      "campaign": "Extra Cubbo | margamodashop.com",
+      "topic": "Cómo preparar la logística de un ecommerce de moda para rebajas y picos de pedidos",
+      "language": "Spanish for Spain",
+      "slug": "logistica-ecommerce-moda-rebajas",
+      "title": "Como preparar la logistica de un ecommerce de moda para rebajas y picos de pedidos",
+      "url": "https://margamodashop.com/blog/logistica-ecommerce-moda-rebajas/",
+      "status": "built_pending_push",
+      "selectedAt": "2026-07-22",
+      "publishedAt": "2026-07-22",
+      "serp": {
+        "market": "Google ES / España",
+        "language": "Español para España",
+        "observations": [
+          "La SERP para logistica ecommerce moda rebajas mezcla guias generales de ecommerce, paginas de operadores logisticos fashion, contenidos de Shopify y fuentes de mercado sobre ecommerce de moda.",
+          "La intencion dominante es practica y operativa: preparar stock, pedidos, envios y devoluciones antes de campañas como rebajas, Black Friday o Navidad.",
+          "Gap detectado: muchas piezas hablan de logistica general o proveedores; falta una guia de moda que conecte variantes de talla/color, stock compartido, packing, promesas de entrega y devoluciones sin vender un proveedor como solucion universal."
+        ],
+        "sources": [
+          "https://www.cnmc.es/prensa/comercio-electronico-20260703",
+          "https://www.deloitte.com/es/es/Industries/consumer/research/futuro-ecommerce-moda.html",
+          "https://www.dhl.com/es-es/parcel/home/fashion-sector.html",
+          "https://www.cubbo.com/fulfillment"
+        ]
+      },
+      "internalLinks": [
+        "/collections/ropa/",
+        "/collections/vestidos-y-monos/",
+        "/collections/bolsos/",
+        "/collections/calzado/",
+        "/blog/moda-femenina-online/"
+      ],
+      "assets": [
+        "/assets/logistica-ecommerce-moda-rebajas.jpg"
+      ]
+    }
   ]
 }
