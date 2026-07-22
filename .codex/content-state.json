@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-07-22T12:00:00+02:00",
+  "lastRunAt": "2026-07-22T14:14:45+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -102,11 +102,11 @@
       "slug": "mejores-boutiques-moda-alicante",
       "title": "Mejores boutiques de moda en Alicante: guia con 10 opciones",
       "url": "https://margamodashop.com/blog/mejores-boutiques-moda-alicante/",
-      "status": "pending_verification",
+      "status": "published",
       "selectedAt": "2026-07-22",
-      "publishedAt": null,
-      "verifiedAt": null,
-      "commit": null,
+      "publishedAt": "2026-07-22",
+      "verifiedAt": "2026-07-22T14:14:45+02:00",
+      "commit": "28977f6",
       "serp": {
         "market": "Google ES / Petrer, Elda y Alicante",
         "language": "Español",
