@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-07-20T14:11:52+02:00",
+  "lastRunAt": "2026-07-22T12:00:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -94,6 +94,51 @@
       ],
       "assets": [
         "/assets/mejores-tiendas-ropa-elda.jpg"
+      ]
+    },
+    {
+      "keyword": "mejores boutiques de moda en Alicante",
+      "priority": "Alta",
+      "slug": "mejores-boutiques-moda-alicante",
+      "title": "Mejores boutiques de moda en Alicante: guia con 10 opciones",
+      "url": "https://margamodashop.com/blog/mejores-boutiques-moda-alicante/",
+      "status": "pending_verification",
+      "selectedAt": "2026-07-22",
+      "publishedAt": null,
+      "verifiedAt": null,
+      "commit": null,
+      "serp": {
+        "market": "Google ES / Petrer, Elda y Alicante",
+        "language": "Español",
+        "observations": [
+          "La SERP actual para mejores boutiques de moda en Alicante mezcla guias editoriales, directorios, rutas oficiales de compras y paginas propias de boutiques de mujer, ceremonia y multimarca.",
+          "La intencion dominante es local/comercial BOFU: la usuaria quiere decidir que boutiques visitar en Alicante, que zonas recorrer y como comparar prendas, calzado, bolsos y complementos.",
+          "Los resultados relevantes incluyen paginas breves de boutique con coleccion/contacto, guias tipo listicle con unas 10-20 opciones, directorios con fichas y valoraciones, y recursos oficiales de Alicante sobre shopping urbano.",
+          "La cobertura frecuente es poco metodologica: abundan listados y fichas, pero faltan criterios de eleccion, rutas caminables, separacion entre ceremonia/multimarca/cadena y advertencias sobre no usar reseñas agregadas como prueba unica.",
+          "Gap detectado: una guia BOFU en español que compare tipos de boutique, zonas como Calle Gerona y Calle del Teatro, opciones de ceremonia y complementos, enlaces internos utiles y fuentes verificables sin inventar precios ni opiniones."
+        ],
+        "sources": [
+          "https://alicanteturismo.com/compras/",
+          "https://www.alicante.es/es/documentos/shopping-walk-alicante",
+          "https://alicantezonagerona.com/",
+          "https://saha.es/",
+          "https://www.hannasurmesure.es/",
+          "https://www.classyprivee.com/pages/acerca-de-classy-privee",
+          "https://www.laloggiastore.com/",
+          "https://www.paginasamarillas.es/a/boutique-de-se%C3%B1ora/alicante/alicante/"
+        ]
+      },
+      "internalLinks": [
+        "/collections/vestidos-y-monos/",
+        "/collections/conjuntos/",
+        "/collections/bolsos/",
+        "/collections/calzado/",
+        "/tiendas/",
+        "/blog/mejores-tiendas-ropa-elda/",
+        "/blog/mejores-tiendas-ropa-petrer/"
+      ],
+      "assets": [
+        "/assets/mejores-boutiques-moda-alicante.jpg"
       ]
     }
   ],
