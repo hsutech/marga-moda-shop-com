@@ -180,6 +180,56 @@
       "assets": [
         "/assets/logistica-ecommerce-moda-rebajas.jpg"
       ]
+    },
+    {
+      "campaign": "Extra Lejan | margamodashop.com",
+      "topic": "Cómo combinar zapatillas barefoot con vestidos, vaqueros y pantalones de vestir",
+      "language": "Spanish for Spain",
+      "slug": "combinar-zapatillas-barefoot-vestidos-vaqueros-pantalones-vestir",
+      "title": "Como combinar zapatillas barefoot con vestidos, vaqueros y pantalones de vestir",
+      "url": "https://margamodashop.com/blog/combinar-zapatillas-barefoot-vestidos-vaqueros-pantalones-vestir/",
+      "status": "published_pending_deploy",
+      "selectedAt": "2026-07-23",
+      "publishedAt": "2026-07-23",
+      "serp": {
+        "market": "Google ES / España",
+        "language": "Español para España",
+        "observations": [
+          "La SERP actual mezcla contenidos de marcas barefoot, marketplaces con listados de producto y guias de outfits de diario; la intencion dominante es practica y de estilo, no una review de Lejan.",
+          "Hay demanda por integrar barefoot en looks urbanos: vestidos, vaqueros, oficina flexible y alternativas como sneakers, bailarinas o mocasines de puntera amplia.",
+          "La cobertura existente suele hablar de beneficios del barefoot o catálogos de marca; falta una guia editorial de moda femenina que explique proporciones, bajos, colores y cautelas de transicion.",
+          "La pieza se diferencia de los articulos actuales de Marga Moda: no compite con las guias generales de looks ni con la categoria de calzado, porque ataca una combinacion concreta barefoot + prendas de armario."
+        ],
+        "sources": [
+          "https://lejanbrand.com/",
+          "https://lejanbrand.com/en/collections/barefoot-shoes",
+          "https://lejanbrand.com/products/adult-lejan-one-cream",
+          "https://www.orthoinfo.org/staying-healthy/shoes-finding-the-right-fit/",
+          "https://health.osu.edu/health/general-health/are-barefoot-shoes-good-for-you",
+          "https://www.belenka.es/zapatos-barefoot-para-mujeres/",
+          "https://www.zalando.es/mujer/?q=zapatilla+barefoot"
+        ]
+      },
+      "internalLinks": [
+        "/collections/vestidos-y-monos/",
+        "/collections/calzado/",
+        "/collections/ropa/",
+        "/collections/chaquetas-y-blazer/",
+        "/blog/looks-de-temporada-mujer/"
+      ],
+      "externalLinks": [
+        "https://lejanbrand.com/",
+        "https://www.orthoinfo.org/staying-healthy/shoes-finding-the-right-fit/",
+        "https://health.osu.edu/health/general-health/are-barefoot-shoes-good-for-you",
+        "https://www.belenka.es/zapatos-barefoot-para-mujeres/"
+      ],
+      "assets": [
+        "/assets/combinar-zapatillas-barefoot-vestidos-vaqueros-pantalones-vestir.png"
+      ],
+      "notes": [
+        "Extra campaign publication; did not modify or consume normal editorial queue items.",
+        "Lejan appears as one editorially justified option only; product facts verified from lejanbrand.com."
+      ]
     }
   ]
 }
