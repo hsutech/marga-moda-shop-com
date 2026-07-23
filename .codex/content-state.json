@@ -188,9 +188,11 @@
       "slug": "combinar-zapatillas-barefoot-vestidos-vaqueros-pantalones-vestir",
       "title": "Como combinar zapatillas barefoot con vestidos, vaqueros y pantalones de vestir",
       "url": "https://margamodashop.com/blog/combinar-zapatillas-barefoot-vestidos-vaqueros-pantalones-vestir/",
-      "status": "published_pending_deploy",
+      "status": "published_verified",
       "selectedAt": "2026-07-23",
       "publishedAt": "2026-07-23",
+      "verifiedAt": "2026-07-23T11:15:12+02:00",
+      "commit": "ecf57d8ddae0caef3a2991dd6a165eac5762aadd",
       "serp": {
         "market": "Google ES / España",
         "language": "Español para España",
