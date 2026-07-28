@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-07-22T14:14:45+02:00",
+  "lastRunAt": "2026-07-28T14:03:57+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -139,6 +139,56 @@
       ],
       "assets": [
         "/assets/mejores-boutiques-moda-alicante.jpg"
+      ]
+    },
+    {
+      "keyword": "mejores vestidos de invitada",
+      "priority": "Alta",
+      "slug": "mejores-vestidos-invitada",
+      "title": "Mejores vestidos de invitada: guia con 10 opciones",
+      "url": "https://margamodashop.com/blog/mejores-vestidos-invitada/",
+      "status": "pending_verification",
+      "selectedAt": "2026-07-27",
+      "publishedAt": "2026-07-28",
+      "commit": null,
+      "serp": {
+        "market": "Google ES / Petrer, Elda y Alicante",
+        "language": "Español",
+        "observations": [
+          "La SERP actual mezcla shoppings editoriales con 10-20 vestidos, guias de tendencias de temporada, medios de moda y paginas de marcas o bodas con enfoque comercial.",
+          "La intencion dominante es BOFU: la usuaria ya busca vestido de invitada y quiere comparar opciones por boda de dia/noche, silueta, color, tendencia, precio orientativo y marca.",
+          "Los primeros resultados relevantes son muy visuales, con autoria identificada en medios como Vogue, Glamour, La Vanguardia, S Moda y Bodas.net; suelen incluir muchas imagenes, enlaces afiliados y poca tabla de decision.",
+          "Cobertura frecuente: vestidos midi, largos, satinados, estampados, capas, lazos, flecos, flores, asimetrias, colores pastel o intensos, marcas espanolas y consejos de protocolo no siempre desarrollados.",
+          "Gap detectado: falta una guia BOFU sin escaparate de producto que traduzca tendencias a criterios practicos de compra, comodidad, horario, reutilizacion, complementos y prueba en tienda."
+        ],
+        "sources": [
+          "https://www.vogue.es/galerias/comprar-vestidos-invitada-boda-primavera-verano-2026",
+          "https://www.vogue.es/articulos/tendencias-vestidos-invitada-boda-primavera-verano-2026",
+          "https://www.lavanguardia.com/magazine/moda/20260511/11533552/guia-basica-vestidos-invitada.html",
+          "https://elpais.com/smoda/moda/2026-06-24/locales-y-con-buen-gusto-12-marcas-de-invitada-para-huir-de-los-cliches.html",
+          "https://www.marie-claire.es/moda/tendencias-vestidos-invitada-verano-2026.html",
+          "https://www.bodas.net/articulos/tendencias-vestidos-de-fiesta--c7847",
+          "https://www.glamour.es/galerias/mejores-vestidos-invitada-bodas-manana"
+        ]
+      },
+      "internalLinks": [
+        "/collections/vestidos-y-monos/",
+        "/collections/calzado/",
+        "/collections/bolsos/",
+        "/tiendas/"
+      ],
+      "externalLinks": [
+        "https://www.vogue.es/galerias/comprar-vestidos-invitada-boda-primavera-verano-2026",
+        "https://www.glamour.es/galerias/mejores-vestidos-invitada-bodas-manana",
+        "https://www.lavanguardia.com/magazine/moda/20260511/11533552/guia-basica-vestidos-invitada.html",
+        "https://www.marie-claire.es/moda/tendencias-vestidos-invitada-verano-2026.html"
+      ],
+      "assets": [
+        "/assets/mejores-vestidos-invitada.jpg"
+      ],
+      "notes": [
+        "No se incluyo video de YouTube porque la SERP y el enfoque de compra no aportaban un recurso oficial claramente superior a la guia visual y comparativa.",
+        "Canibalizacion revisada: se diferencia de las guias locales de tiendas/boutiques y de la categoria general de vestidos y monos."
       ]
     }
   ],
