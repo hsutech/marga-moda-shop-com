@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-07-28T14:03:57+02:00",
+  "lastRunAt": "2026-08-02T14:00:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -190,6 +190,55 @@
       "notes": [
         "No se incluyo video de YouTube porque la SERP y el enfoque de compra no aportaban un recurso oficial claramente superior a la guia visual y comparativa.",
         "Canibalizacion revisada: se diferencia de las guias locales de tiendas/boutiques y de la categoria general de vestidos y monos."
+      ]
+    },
+    {
+      "keyword": "mejores vestidos para bodas de día",
+      "priority": "Alta",
+      "slug": "mejores-vestidos-bodas-dia",
+      "title": "Mejores vestidos para bodas de dia: guia con 10 opciones",
+      "url": "https://margamodashop.com/blog/mejores-vestidos-bodas-dia/",
+      "status": "pending_verification",
+      "selectedAt": "2026-08-02",
+      "publishedAt": "2026-08-02",
+      "serp": {
+        "market": "Google ES / Petrer, Elda y Alicante",
+        "language": "Español",
+        "observations": [
+          "La SERP actual mezcla shoppings editoriales de moda, guias de protocolo para invitadas y categorias ecommerce de marcas de ceremonia e invitada.",
+          "La intencion dominante es BOFU/comercial: la usuaria busca comprar o preseleccionar vestidos para una boda de dia y necesita reducir el riesgo de equivocarse con largo, color, tejido y complementos.",
+          "Los resultados editoriales relevantes suelen tener autoria, muchas imagenes, selecciones de 10-20 vestidos y secciones sobre colores, largos y trucos; las categorias de marca aportan producto y texto SEO breve.",
+          "Cobertura frecuente: midi, corto pulido, flores, tonos pastel o luminosos, tejidos ligeros, manga/capa, tocados, zapatos comodos y diferencia entre boda de dia y noche.",
+          "Gap detectado: falta una guia BOFU sin precios ni afiliacion que una criterios de compra, comparativa, checklist y protocolo con una estructura facil de aplicar en tienda."
+        ],
+        "sources": [
+          "https://www.glamour.es/galerias/mejores-vestidos-invitada-bodas-manana",
+          "https://www.bodas.net/articulos/como-elegir-mi-vestido-de-invitada-para-una-boda-de-dia-en-5-pasos--c8868",
+          "https://www.pronovias.com/es/vestidos-invitada-boda/dia",
+          "https://www.the-are.com/collections/bodas-de-dia",
+          "https://es-fascinante.com/collections/day-wedding",
+          "https://www.airebarcelona.com/es/vestidos-de-fiesta/vestidos-boda-dia",
+          "https://www.protocolo.org/miscelaneo/videos/como-vestir-para-asistir-a-una-boda.html"
+        ]
+      },
+      "internalLinks": [
+        "/collections/vestidos-y-monos/",
+        "/collections/calzado/",
+        "/collections/bolsos/",
+        "/collections/complementos/"
+      ],
+      "externalLinks": [
+        "https://www.glamour.es/galerias/mejores-vestidos-invitada-bodas-manana",
+        "https://www.bodas.net/articulos/como-elegir-mi-vestido-de-invitada-para-una-boda-de-dia-en-5-pasos--c8868",
+        "https://www.pronovias.com/es/vestidos-invitada-boda/dia",
+        "https://www.protocolo.org/miscelaneo/videos/como-vestir-para-asistir-a-una-boda.html"
+      ],
+      "assets": [
+        "/assets/mejores-vestidos-bodas-dia.jpg"
+      ],
+      "notes": [
+        "No se incluyo video de YouTube porque la investigacion no encontro un video real de YouTube suficientemente relevante y fiable; se enlazo una fuente de protocolo con video como contexto externo.",
+        "Canibalizacion revisada: se diferencia del articulo general mejores vestidos de invitada al centrarse en bodas de dia, protocolo diurno, luz natural, colores, largo y complementos."
       ]
     }
   ],
