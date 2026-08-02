@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-02T14:00:00+02:00",
+  "lastRunAt": "2026-08-02T14:19:12+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -198,7 +198,7 @@
       "slug": "mejores-vestidos-bodas-dia",
       "title": "Mejores vestidos para bodas de dia: guia con 10 opciones",
       "url": "https://margamodashop.com/blog/mejores-vestidos-bodas-dia/",
-      "status": "pending_verification",
+      "status": "published",
       "selectedAt": "2026-08-02",
       "publishedAt": "2026-08-02",
       "serp": {
@@ -239,7 +239,9 @@
       "notes": [
         "No se incluyo video de YouTube porque la investigacion no encontro un video real de YouTube suficientemente relevante y fiable; se enlazo una fuente de protocolo con video como contexto externo.",
         "Canibalizacion revisada: se diferencia del articulo general mejores vestidos de invitada al centrarse en bodas de dia, protocolo diurno, luz natural, colores, largo y complementos."
-      ]
+      ],
+      "verifiedAt": "2026-08-02T14:19:12+02:00",
+      "commit": "cbead56"
     }
   ],
   "extraCampaigns": [
