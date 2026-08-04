@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-02T14:19:12+02:00",
+  "lastRunAt": "2026-08-04T13:13:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -242,6 +242,56 @@
       ],
       "verifiedAt": "2026-08-02T14:19:12+02:00",
       "commit": "cbead56"
+    },
+    {
+      "keyword": "mejores vestidos para bodas de noche",
+      "priority": "Alta",
+      "slug": "mejores-vestidos-bodas-noche",
+      "title": "Mejores vestidos para bodas de noche: guia con 10 opciones",
+      "url": "https://margamodashop.com/blog/mejores-vestidos-bodas-noche/",
+      "status": "pushed_pending_verification",
+      "selectedAt": "2026-08-04",
+      "publicationAttemptedAt": "2026-08-04",
+      "serp": {
+        "market": "Google ES / Petrer, Elda y Alicante",
+        "language": "Español",
+        "observations": [
+          "La SERP actual mezcla guias de protocolo, articulos editoriales de invitada, paginas de marca y contenidos ecommerce sobre vestidos de noche.",
+          "La intencion dominante es BOFU/comercial con apoyo informacional: la usuaria quiere comprar o preseleccionar un vestido para boda de noche y necesita confirmar largo, color, tejido, brillo, zapatos y nivel de etiqueta.",
+          "Los resultados relevantes suelen incluir autoria o equipo editorial, imagenes abundantes, indice o secciones navegables, consejos de protocolo y enlaces a producto o categorias.",
+          "Cobertura frecuente: largo vs midi, colores joya, negro/blanco, satinado, crepe, terciopelo, lentejuelas, zapatos, joyas, bolso, tocados discretos y dress codes como black tie, coctel o semiformal.",
+          "Gap detectado: falta una guia BOFU sin precios ni afiliacion que traduzca la SERP a una matriz de decision practica, separada del articulo de bodas de dia y sin inventar reseñas, rankings o disponibilidad."
+        ],
+        "sources": [
+          "https://www.bodas.net/articulos/dress-code-para-invitadas-a-una-boda-de-noche--c2758",
+          "https://www.glamour.es/articulos/protocolo-invitadas-boda-bautizo-comunion",
+          "https://www2.hm.com/es_es/editorial/inspiration/womens-wedding-guest-outfits-inspiration.html",
+          "https://luciasecasa.com/moda/invitadas/protocolo-una-boda-nocturna/",
+          "https://www.protocolo.org/social/bodas/vestir-para-una-boda-.html",
+          "https://wedded.app/blog/spain/guests/vestido-corto-largo-invitadas",
+          "https://www.lavanguardia.com/magazine/moda/20260511/11533552/guia-basica-vestidos-invitada.html"
+        ]
+      },
+      "internalLinks": [
+        "/collections/vestidos-y-monos/",
+        "/collections/calzado/",
+        "/collections/bolsos/",
+        "/collections/complementos/",
+        "/blog/mejores-vestidos-bodas-dia/"
+      ],
+      "externalLinks": [
+        "https://www.glamour.es/articulos/protocolo-invitadas-boda-bautizo-comunion",
+        "https://luciasecasa.com/moda/invitadas/protocolo-una-boda-nocturna/",
+        "https://www.protocolo.org/social/bodas/vestir-para-una-boda-.html",
+        "https://www.lavanguardia.com/magazine/moda/20260511/11533552/guia-basica-vestidos-invitada.html"
+      ],
+      "assets": [
+        "/assets/mejores-vestidos-bodas-noche.jpg"
+      ],
+      "notes": [
+        "No se incluyo video de YouTube porque la investigacion no encontro un video real de YouTube suficientemente relevante y fiable para mejorar la guia frente a las fuentes escritas.",
+        "Canibalizacion revisada: se diferencia del articulo general mejores vestidos de invitada y del articulo mejores vestidos para bodas de dia al centrarse en etiqueta nocturna, largo, tonos profundos, tejidos, brillo medido y accesorios de noche."
+      ]
     }
   ],
   "extraCampaigns": [
