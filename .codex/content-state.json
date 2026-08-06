@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-04T13:13:00+02:00",
+  "lastRunAt": "2026-08-06T14:10:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -294,6 +294,60 @@
       "notes": [
         "No se incluyo video de YouTube porque la investigacion no encontro un video real de YouTube suficientemente relevante y fiable para mejorar la guia frente a las fuentes escritas.",
         "Canibalizacion revisada: se diferencia del articulo general mejores vestidos de invitada y del articulo mejores vestidos para bodas de dia al centrarse en etiqueta nocturna, largo, tonos profundos, tejidos, brillo medido y accesorios de noche."
+      ]
+    },
+    {
+      "keyword": "mejores zapatos comodos de invitada",
+      "priority": "Alta",
+      "slug": "mejores-zapatos-comodos-invitada",
+      "title": "Mejores zapatos comodos de invitada: guia con 10 opciones",
+      "url": "https://margamodashop.com/blog/mejores-zapatos-comodos-invitada/",
+      "status": "pending_verification",
+      "selectedAt": "2026-08-06",
+      "publicationAttemptedAt": "2026-08-06",
+      "serp": {
+        "market": "Google ES / Espana",
+        "language": "Espanol para Espana",
+        "observations": [
+          "La SERP mezcla listicles editoriales, paginas de marca y guias de boda centradas en tacones comodos, sandalias, cuñas, bailarinas, slingbacks y segundos zapatos.",
+          "La intencion dominante es BOFU/comercial: la usuaria ya prepara una boda y quiere decidir que zapato comprar o probar sin sufrir durante ceremonia, coctel, cena y baile.",
+          "Los resultados relevantes suelen tener autoria editorial o de marca, imagenes abundantes, bloques de producto, FAQ y consejos sobre altura de tacon, estabilidad, color, horma y sujecion.",
+          "Gap detectado: falta una matriz practica que ordene la eleccion segun suelo, duracion, vestido, reutilizacion y comodidad real sin depender de precios, afiliacion, rankings inventados o reseñas no verificadas.",
+          "No se encontro un video real de YouTube suficientemente especifico y fiable que aportara mas que las fuentes escritas; se omitio el embed para no rellenar con multimedia poco util."
+        ],
+        "sources": [
+          "https://shoelique.com/es/blog/how-to-choose-comfortable-wedding-shoes",
+          "https://wonders.com/es/zapatos-invitada-boda",
+          "https://www.bodas.net/articulos/calzado-comodo-para-invitadas-de-boda--c4914",
+          "https://rostudioshoes.com/blogs/news/como-elegir-zapatos-invitada-comodos-aguantar-boda",
+          "https://www.hola.com/seleccion/20260311888367/zapatos-de-tacon-comodo-para-invitadas-y-novias/",
+          "https://www.elcorteingles.es/bodamas/5-claves-para-acertar-con-los-zapatos-de-invitada-en-una-boda/",
+          "https://www.elcorteingles.es/bodamas/los-zapatos-de-invitada-de-boda-mas-comodos-son-tendencia/",
+          "https://www.guysandstthomas.nhs.uk/health-information/choosing-shoes-reduce-foot-pain",
+          "https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-minute-best-shoes-for-healthy-feet/"
+        ]
+      },
+      "internalLinks": [
+        "/collections/vestidos-y-monos/",
+        "/collections/calzado/",
+        "/collections/bolsos/",
+        "/collections/complementos/",
+        "/blog/mejores-vestidos-invitada/",
+        "/blog/mejores-vestidos-bodas-dia/",
+        "/blog/mejores-vestidos-bodas-noche/"
+      ],
+      "externalLinks": [
+        "https://shoelique.com/es/blog/how-to-choose-comfortable-wedding-shoes",
+        "https://luciasecasa.com/moda/invitadas/zapatos-para-invitada-de-boda/",
+        "https://rostudioshoes.com/blogs/news/como-elegir-zapatos-invitada-comodos-aguantar-boda",
+        "https://www.nhs.uk/symptoms/foot-pain/heel-pain/"
+      ],
+      "assets": [
+        "/assets/mejores-zapatos-comodos-invitada.jpg"
+      ],
+      "notes": [
+        "Canibalizacion revisada: se diferencia de los articulos de vestidos de invitada, bodas de dia y bodas de noche al centrarse en calzado, suelo, sujecion, horma y prueba de comodidad.",
+        "Articulo creado en copia limpia porque el workspace original bloqueaba lecturas de .codex/AUTONOMOUS_CONTENT.md, .codex/content-plan.xlsx y archivos de contenido; se uso memoria, estado publicado y presencia local del slug como senal de siguiente keyword pendiente."
       ]
     }
   ],
