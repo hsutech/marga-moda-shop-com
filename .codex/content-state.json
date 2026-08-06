@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-06T14:10:00+02:00",
+  "lastRunAt": "2026-08-06T14:20:50+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -302,7 +302,7 @@
       "slug": "mejores-zapatos-comodos-invitada",
       "title": "Mejores zapatos comodos de invitada: guia con 10 opciones",
       "url": "https://margamodashop.com/blog/mejores-zapatos-comodos-invitada/",
-      "status": "pending_verification",
+      "status": "published",
       "selectedAt": "2026-08-06",
       "publicationAttemptedAt": "2026-08-06",
       "serp": {
@@ -348,7 +348,10 @@
       "notes": [
         "Canibalizacion revisada: se diferencia de los articulos de vestidos de invitada, bodas de dia y bodas de noche al centrarse en calzado, suelo, sujecion, horma y prueba de comodidad.",
         "Articulo creado en copia limpia porque el workspace original bloqueaba lecturas de .codex/AUTONOMOUS_CONTENT.md, .codex/content-plan.xlsx y archivos de contenido; se uso memoria, estado publicado y presencia local del slug como senal de siguiente keyword pendiente."
-      ]
+      ],
+      "publishedAt": "2026-08-06",
+      "verifiedAt": "2026-08-06T14:20:50+02:00",
+      "commit": "c185b8e"
     }
   ],
   "extraCampaigns": [
