@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-08T14:28:00+02:00",
+  "lastRunAt": "2026-08-08T14:34:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -452,7 +452,7 @@
       "slug": "crear-imagenes-campanas-moda-ia",
       "title": "Cómo crear imágenes para campañas de moda con IA sin confundirlas con fotos de producto",
       "url": "https://margamodashop.com/blog/crear-imagenes-campanas-moda-ia/",
-      "status": "pending_verification",
+      "status": "published_verified",
       "selectedAt": "2026-08-08",
       "publicationAttemptedAt": "2026-08-08",
       "serp": {
@@ -497,7 +497,22 @@
         "Campaign replaced normal queue item for this run per 2026-08-08 instructions.",
         "Featured image generated with built-in imagegen as a conceptual creative desk scene, not as product evidence.",
         "No YouTube video embedded because the current SERP did not surface a video that materially improved this procedural guide."
-      ]
+      ],
+      "publishedAt": "2026-08-08",
+      "verifiedAt": "2026-08-08T14:33:48+02:00",
+      "commit": "7e5776cf6e7ac9cc217824c667a008dc2050fb8e",
+      "verification": {
+        "publicUrl": "https://margamodashop.com/blog/crear-imagenes-campanas-moda-ia/",
+        "checks": [
+          "HTTP/2 200 for article",
+          "Expected H1 present",
+          "Canonical matches final URL",
+          "Featured image HTTP/2 200 image/jpeg at 1600x900",
+          "Blog index contains article card",
+          "Sitemap contains article URL and 2026-08-08 lastmod",
+          "Exact followed backlink appears once with required anchor and destination"
+        ]
+      }
     }
   ]
 }
