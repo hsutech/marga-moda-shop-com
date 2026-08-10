@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-10T14:00:00+02:00",
+  "lastRunAt": "2026-08-10T14:13:40+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -359,7 +359,7 @@
       "slug": "mejores-bolsos-invitada",
       "title": "Mejores bolsos para invitada: guia con 10 opciones",
       "url": "https://margamodashop.com/blog/mejores-bolsos-invitada/",
-      "status": "pending_verification",
+      "status": "published",
       "selectedAt": "2026-08-10",
       "publicationAttemptedAt": "2026-08-10",
       "serp": {
@@ -402,7 +402,22 @@
       "notes": [
         "Canibalizacion revisada: se diferencia de los articulos de vestidos y zapatos al centrarse en bolsos, capacidad, formato, coordinacion y reutilizacion.",
         "Imagen destacada generada con built-in imagegen como bodegon editorial conceptual, no como evidencia de producto real ni inventario."
-      ]
+      ],
+      "publishedAt": "2026-08-10",
+      "verifiedAt": "2026-08-10T14:13:40+02:00",
+      "commit": "32670540785f46ce5286443306aa10238768356d",
+      "verification": {
+        "publicUrl": "https://margamodashop.com/blog/mejores-bolsos-invitada/",
+        "checks": [
+          "HTTP 200 for article",
+          "Expected H1 present",
+          "Canonical matches final URL",
+          "Featured image HTTP 200 image/jpeg at 1672x941",
+          "Blog index contains article card",
+          "Sitemap contains article URL and 2026-08-10 lastmod",
+          "Public desktop and mobile render checks passed with image loaded and no horizontal overflow"
+        ]
+      }
     }
   ],
   "extraCampaigns": [
