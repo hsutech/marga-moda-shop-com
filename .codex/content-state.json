@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-08T14:34:00+02:00",
+  "lastRunAt": "2026-08-10T14:00:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -352,6 +352,57 @@
       "publishedAt": "2026-08-06",
       "verifiedAt": "2026-08-06T14:20:50+02:00",
       "commit": "c185b8e"
+    },
+    {
+      "keyword": "mejores bolsos para invitada",
+      "priority": "Alta",
+      "slug": "mejores-bolsos-invitada",
+      "title": "Mejores bolsos para invitada: guia con 10 opciones",
+      "url": "https://margamodashop.com/blog/mejores-bolsos-invitada/",
+      "status": "pending_verification",
+      "selectedAt": "2026-08-10",
+      "publicationAttemptedAt": "2026-08-10",
+      "serp": {
+        "market": "Google ES / Petrer, Elda y Alicante",
+        "language": "Español",
+        "observations": [
+          "La SERP actual mezcla listicles editoriales, guias por tipo de boda y paginas de marca con bolsos de fiesta e invitada.",
+          "La intencion dominante es BOFU/comercial: la usuaria quiere decidir que bolso comprar o probar para una boda o evento, con dudas sobre formato, capacidad, color y coordinacion con vestido y zapatos.",
+          "Los primeros resultados relevantes suelen incluir autoria editorial o de marca, imagenes abundantes, listados de 8 a 16 bolsos, productos afiliados, secciones por tipo de boda y consejos de combinacion.",
+          "Cobertura frecuente: clutch, cartera sobre, bolso joya, bombonera, rafia, metalizados, satinado, negro especial, abalorios, cadena fina, capacidad minima y reutilizacion.",
+          "Gap detectado: falta una guia BOFU sin precios ni afiliacion que ordene la eleccion por capacidad real, proporcion, horario, zapatos, joyas y uso posterior, evitando rankings o reseñas no verificadas.",
+          "No se encontro un video real de YouTube suficientemente especifico y fiable que mejorara la decision; se omitio el embed."
+        ],
+        "sources": [
+          "https://www.vogue.es/galerias/bolsos-invitada-boda-evento-fiesta-2026",
+          "https://www.glamour.es/articulos/mejores-bolsos-invitada-segun-tipo-boda",
+          "https://www.bodas.net/articulos/bolsos-invitadas-boda--c7701",
+          "https://www.davidsbridal.com/content/wedding-looks/wedding-guest-bag-etiquette-what-purse-to-carry",
+          "https://www.marie-claire.es/moda/bolsos-invitada-elegantes-tendencia-primavera-verano-2026.html",
+          "https://www.hispanitas.com/blog/como-llevar-bolso-mano-boda/",
+          "https://laragarabatea.es/tips/como-elegir-bolso-de-fiesta-para-invitada-una-boda/",
+          "https://almendroatelier.com/que-tipo-de-bolso-llevar-a-una-boda/"
+        ]
+      },
+      "internalLinks": [
+        "/collections/vestidos-y-monos/",
+        "/collections/calzado/",
+        "/collections/complementos/",
+        "/blog/mejores-vestidos-invitada/"
+      ],
+      "externalLinks": [
+        "https://www.vogue.es/galerias/bolsos-invitada-boda-evento-fiesta-2026",
+        "https://www.glamour.es/articulos/mejores-bolsos-invitada-segun-tipo-boda",
+        "https://www.marie-claire.es/moda/bolsos-invitada-elegantes-tendencia-primavera-verano-2026.html",
+        "https://www.hispanitas.com/blog/como-llevar-bolso-mano-boda/"
+      ],
+      "assets": [
+        "/assets/mejores-bolsos-invitada.jpg"
+      ],
+      "notes": [
+        "Canibalizacion revisada: se diferencia de los articulos de vestidos y zapatos al centrarse en bolsos, capacidad, formato, coordinacion y reutilizacion.",
+        "Imagen destacada generada con built-in imagegen como bodegon editorial conceptual, no como evidencia de producto real ni inventario."
+      ]
     }
   ],
   "extraCampaigns": [
