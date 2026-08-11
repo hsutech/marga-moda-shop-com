@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-10T14:13:40+02:00",
+  "lastRunAt": "2026-08-11T14:05:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -418,6 +418,61 @@
           "Public desktop and mobile render checks passed with image loaded and no horizontal overflow"
         ]
       }
+    },
+    {
+      "keyword": "mejores conjuntos de mujer para eventos",
+      "priority": "Alta",
+      "slug": "mejores-conjuntos-mujer-eventos",
+      "title": "Mejores conjuntos de mujer para eventos: guia con 10 opciones",
+      "url": "https://margamodashop.com/blog/mejores-conjuntos-mujer-eventos/",
+      "status": "pending_verification",
+      "selectedAt": "2026-08-11",
+      "publicationAttemptedAt": "2026-08-11",
+      "serp": {
+        "market": "Google ES / Petrer, Elda y Alicante",
+        "language": "Español para España",
+        "observations": [
+          "La SERP mezcla categorias ecommerce de conjuntos de invitada, paginas de marca y articulos editoriales sobre dos piezas, trajes, pantalones palazzo, faldas y tops para eventos.",
+          "La intencion dominante es BOFU/comercial: la usuaria quiere comprar o probar alternativas al vestido para bodas, comuniones, bautizos, graduaciones o celebraciones.",
+          "Los resultados relevantes suelen incluir imagenes abundantes, bloques de producto, autoria editorial en medios de moda o textos de categoria con beneficios de versatilidad y reutilizacion.",
+          "Cobertura frecuente: traje de pantalon, conjunto de dos piezas, palazzo con top, chaleco, falda midi, mono, total look, colores por temporada, codigos de vestimenta y complementos.",
+          "Gap detectado: falta una guia practica que explique decision por formalidad, proporcion, tejido, bajo del pantalon, calzado y reutilizacion sin inventar precios, reseñas ni rankings."
+        ],
+        "sources": [
+          "https://delacroixbrand.com/collections/conjuntos-de-pantalon-y-top-de-invitada-para-bodas",
+          "https://www.bruna.es/collections/conjunto-dos-piezas",
+          "https://www.vogue.es/galerias/conjuntos-dos-piezas-invitadas-boda",
+          "https://www.vogue.es/novias/galerias/pantalones-para-bodas-comuniones-graduaciones-16-looks-para-eventos-que-son-mejores-que-cualquier-vestido",
+          "https://www.idealo.es/tematica/moda/todo-para-una-boda-perfecta/looks-invitada-boda",
+          "https://www2.hm.com/es_es/editorial/inspiration/womens-wedding-guest-outfits-inspiration.html",
+          "https://cherubina.com/collections/total-look",
+          "https://www.glamour.es/galerias/traje-pantalon-invitada-bodas",
+          "https://luciasecasa.com/moda/invitadas/conjuntos-de-pantalon-para-bodas-ficha-el-tuyo/"
+        ]
+      },
+      "internalLinks": [
+        "/collections/conjuntos/",
+        "/collections/bolsos/",
+        "/collections/calzado/",
+        "/collections/complementos/",
+        "/blog/mejores-vestidos-invitada/",
+        "/blog/mejores-vestidos-bodas-dia/",
+        "/blog/mejores-bolsos-invitada/"
+      ],
+      "externalLinks": [
+        "https://www.vogue.es/galerias/conjuntos-dos-piezas-invitadas-boda",
+        "https://www.vogue.es/novias/galerias/pantalones-para-bodas-comuniones-graduaciones-16-looks-para-eventos-que-son-mejores-que-cualquier-vestido",
+        "https://www.glamour.es/galerias/traje-pantalon-invitada-bodas",
+        "https://luciasecasa.com/moda/invitadas/conjuntos-de-pantalon-para-bodas-ficha-el-tuyo/"
+      ],
+      "assets": [
+        "/assets/mejores-conjuntos-mujer-eventos.jpg"
+      ],
+      "notes": [
+        "No se incluyo video de YouTube porque la SERP no aporto un resultado especifico, fiable y superior a las guias escritas para esta decision de compra.",
+        "Canibalizacion revisada: se diferencia de vestidos, bodas de dia/noche, zapatos y bolsos al centrarse en alternativas completas al vestido y reutilizacion de dos piezas.",
+        "Featured image generated with built-in imagegen as an editorial styling still life, not as evidence of real inventory."
+      ]
     }
   ],
   "extraCampaigns": [
