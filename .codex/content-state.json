@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-11T14:05:00+02:00",
+  "lastRunAt": "2026-08-11T14:23:37+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -425,7 +425,7 @@
       "slug": "mejores-conjuntos-mujer-eventos",
       "title": "Mejores conjuntos de mujer para eventos: guia con 10 opciones",
       "url": "https://margamodashop.com/blog/mejores-conjuntos-mujer-eventos/",
-      "status": "pending_verification",
+      "status": "published",
       "selectedAt": "2026-08-11",
       "publicationAttemptedAt": "2026-08-11",
       "serp": {
@@ -472,7 +472,23 @@
         "No se incluyo video de YouTube porque la SERP no aporto un resultado especifico, fiable y superior a las guias escritas para esta decision de compra.",
         "Canibalizacion revisada: se diferencia de vestidos, bodas de dia/noche, zapatos y bolsos al centrarse en alternativas completas al vestido y reutilizacion de dos piezas.",
         "Featured image generated with built-in imagegen as an editorial styling still life, not as evidence of real inventory."
-      ]
+      ],
+      "publishedAt": "2026-08-11",
+      "verifiedAt": "2026-08-11T14:23:37+02:00",
+      "commit": "d09a4d0d9766e6df8d27f46681304901ad1b8362",
+      "verification": {
+        "publicUrl": "https://margamodashop.com/blog/mejores-conjuntos-mujer-eventos/",
+        "checks": [
+          "GitHub Actions / Cloudflare Pages workflow 31490788298 completed successfully",
+          "Public article HTTP 200 on custom domain",
+          "Expected H1 text present after normalizing span markup",
+          "Canonical matches final URL",
+          "Featured image HTTP 200 image/jpeg",
+          "Blog index contains article card",
+          "Sitemap contains article URL and 2026-08-11 lastmod",
+          "Public desktop and mobile render screenshots captured with image loaded and no clipping after mobile CSS adjustment"
+        ]
+      }
     }
   ],
   "extraCampaigns": [
