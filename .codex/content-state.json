@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-14T14:06:00+02:00",
+  "lastRunAt": "2026-08-14T14:18:30+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -496,7 +496,7 @@
       "slug": "mejores-monos-invitada",
       "title": "Mejores monos de invitada: guia con 10 opciones",
       "url": "https://margamodashop.com/blog/mejores-monos-invitada/",
-      "status": "pending_verification",
+      "status": "published",
       "selectedAt": "2026-08-14",
       "publicationAttemptedAt": "2026-08-14",
       "serp": {
@@ -540,7 +540,27 @@
         "Normal queue topic inferred from the available remote state/memory because the local workbook .codex/content-plan.xlsx blocked byte-level reads in both sandboxed and escalated attempts.",
         "No YouTube video embedded because the current SERP did not surface a specific reliable video that improved the BOFU buying decision.",
         "Featured image generated with built-in imagegen as editorial styling, not evidence of real inventory."
-      ]
+      ],
+      "publishedAt": "2026-08-14",
+      "verifiedAt": "2026-08-14T14:18:30+02:00",
+      "commit": "84724e4",
+      "verification": {
+        "publicUrl": "https://margamodashop.com/blog/mejores-monos-invitada/",
+        "checks": [
+          "HTTP 200 for article",
+          "Expected H1 present",
+          "Self-referencing canonical correct",
+          "Open Graph image references featured asset",
+          "Featured image HTTP 200 image/jpeg",
+          "Blog index contains article URL",
+          "Sitemap contains article URL",
+          "MAGNIFIC campaign backlink remains exactly one followed anchor to the required destination",
+          "GitHub Actions / Cloudflare Pages deployment succeeded for publish commit"
+        ],
+        "limitations": [
+          "Browser render inspection via in-app browser returned no visible inspection output in this environment; HTML/CSS/image public checks passed."
+        ]
+      }
     }
   ],
   "extraCampaigns": [
