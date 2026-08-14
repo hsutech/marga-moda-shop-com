@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-11T14:23:37+02:00",
+  "lastRunAt": "2026-08-14T14:06:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -489,6 +489,58 @@
           "Public desktop and mobile render screenshots captured with image loaded and no clipping after mobile CSS adjustment"
         ]
       }
+    },
+    {
+      "keyword": "mejores monos de invitada",
+      "priority": "Alta",
+      "slug": "mejores-monos-invitada",
+      "title": "Mejores monos de invitada: guia con 10 opciones",
+      "url": "https://margamodashop.com/blog/mejores-monos-invitada/",
+      "status": "pending_verification",
+      "selectedAt": "2026-08-14",
+      "publicationAttemptedAt": "2026-08-14",
+      "serp": {
+        "market": "Google ES / España",
+        "language": "Español para España",
+        "observations": [
+          "La SERP actual mezcla listicles editoriales, galerias de moda, categorias ecommerce y guias de protocolo para monos de invitada y monos para bodas.",
+          "La intencion dominante es BOFU/comercial: la usuaria ya considera comprar o probar un mono para boda, comunion, bautizo, graduacion o evento y necesita decidir silueta, tejido, color y complementos.",
+          "Bodas.net, Glamour y HOLA trabajan formatos visuales largos con seleccion de modelos, escotes, tejidos y firmas; Zara y Cherubina aportan entidades de categoria como halter, palabra de honor, jacquard, satinado, palazzo, cinturones y capa.",
+          "Las guias de protocolo confirman que el pantalon puede ser adecuado cuando el corte y los complementos elevan el look, aunque la decision depende del contexto y del horario.",
+          "Gap cubierto: guia practica que ordena la compra por tiro, bajo, escote sentado, cremallera, facilidad de uso, horario, zapatos y reutilizacion, sin inventar precios, reviews ni experiencia personal."
+        ],
+        "sources": [
+          "https://www.bodas.net/articulos/monos-de-fiesta-para-bodas-los-35-mejores-modelos-2017--c3333",
+          "https://www.glamour.es/galerias/mono-invitada-elegante",
+          "https://www.hola.com/novias/20240915717920/monos-para-bodas/",
+          "https://www.zara.com/us/es/mujer-monos-invitada-boda-l4763.html",
+          "https://cherubina.com/collections/pantalones-y-monos",
+          "https://www.protocolo.org/preguntasconrespuesta/qid671.html",
+          "https://www.20minutos.es/mujer/moda/monos-baratos-invitadas-boda-elegantes-vestidos-5131784/",
+          "https://www.vogue.es/novias/articulos/look-invitada-boda-mono-comprar-tendencia-primavera-verano-2018/34022"
+        ]
+      },
+      "internalLinks": [
+        "/collections/calzado/",
+        "/blog/mejores-bolsos-invitada/",
+        "/blog/mejores-conjuntos-mujer-eventos/",
+        "/collections/complementos/",
+        "/collections/vestidos-y-monos/"
+      ],
+      "externalLinks": [
+        "https://www.glamour.es/galerias/mono-invitada-elegante",
+        "https://www.hola.com/novias/20240915717920/monos-para-bodas/",
+        "https://cherubina.com/collections/pantalones-y-monos",
+        "https://www.protocolo.org/preguntasconrespuesta/qid671.html"
+      ],
+      "assets": [
+        "/assets/mejores-monos-invitada.jpg"
+      ],
+      "notes": [
+        "Normal queue topic inferred from the available remote state/memory because the local workbook .codex/content-plan.xlsx blocked byte-level reads in both sandboxed and escalated attempts.",
+        "No YouTube video embedded because the current SERP did not surface a specific reliable video that improved the BOFU buying decision.",
+        "Featured image generated with built-in imagegen as editorial styling, not evidence of real inventory."
+      ]
     }
   ],
   "extraCampaigns": [
@@ -652,7 +704,7 @@
       }
     }
   ],
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-14",
   "articles": [
     {
       "keyword": "cómo elegir zapatillas de puntera ancha para vestir sin parecer deportivas",
