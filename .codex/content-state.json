@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-16T09:55:00+02:00",
+  "lastRunAt": "2026-08-16T10:12:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -568,7 +568,7 @@
       "slug": "tiendas-vestidos-fiesta-petrer-opiniones",
       "title": "Tiendas de vestidos de fiesta en Petrer: opiniones y criterios para elegir",
       "url": "https://margamodashop.com/blog/tiendas-vestidos-fiesta-petrer-opiniones/",
-      "status": "pending_verification",
+      "status": "published",
       "selectedAt": "2026-08-16",
       "publicationAttemptedAt": "2026-08-16",
       "serp": {
@@ -614,7 +614,25 @@
         "No se incluyo video de YouTube porque la SERP no aporto un video especifico y fiable para tiendas de vestidos de fiesta en Petrer.",
         "El articulo evita inventar opiniones, puntuaciones, precios o disponibilidad de producto; usa criterios verificables para interpretar reseñas.",
         "Bodas.net, QDQ y Nicanora se usaron como SERP/comparable context; no todos quedaron como enlaces salientes porque curl devolvio 403 o eran agregadores menos autoritativos."
-      ]
+      ],
+      "publishedAt": "2026-08-16",
+      "verifiedAt": "2026-08-16T10:11:50+02:00",
+      "commit": "d850fbb",
+      "verification": {
+        "workflowRun": "31935685120",
+        "workflowConclusion": "success",
+        "publicChecks": [
+          "article_http_200",
+          "expected_h1",
+          "canonical",
+          "og_image",
+          "featured_image_http_200",
+          "blog_index_presence",
+          "sitemap_presence",
+          "magnific_backlink_exact_followed"
+        ],
+        "browserRender": "No browser connector was available in this environment; local and public HTML/CSS/image checks passed."
+      }
     }
   ],
   "extraCampaigns": [
