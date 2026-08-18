@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-18T14:00:00+02:00",
+  "lastRunAt": "2026-08-18T14:56:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -640,7 +640,7 @@
       "slug": "donde-comprar-vestidos-invitada-alicante",
       "title": "Dónde comprar vestidos de invitada en Alicante",
       "url": "https://margamodashop.com/blog/donde-comprar-vestidos-invitada-alicante/",
-      "status": "pending_verification",
+      "status": "published",
       "selectedAt": "2026-08-18",
       "publicationAttemptedAt": "2026-08-18",
       "serp": {
@@ -687,7 +687,23 @@
         "Angle intentionally differs from mejores boutiques de moda en Alicante by focusing on where to buy wedding guest dresses, appointment readiness, fitting risk, alterations and accessories.",
         "Featured image generated with built-in imagegen as an editorial boutique scene; it is not evidence of real inventory or a real store.",
         "No YouTube video embedded because current SERP did not surface a specific reliable official video that improved the local buying decision."
-      ]
+      ],
+      "publishedAt": "2026-08-18",
+      "verifiedAt": "2026-08-18T14:56:00+02:00",
+      "commit": "0594d8c",
+      "verification": {
+        "publicUrl": "https://margamodashop.com/blog/donde-comprar-vestidos-invitada-alicante/",
+        "checks": [
+          "HTTP 200 for article on custom domain",
+          "Expected H1 present",
+          "Self-referencing canonical present",
+          "OG image references featured image",
+          "Featured image HTTP 200 image/jpeg",
+          "Blog index contains article URL",
+          "Sitemap contains article URL with 2026-08-18 lastmod",
+          "Magnific campaign backlink still appears exactly once, followed, with required anchor and destination"
+        ]
+      }
     }
   ],
   "extraCampaigns": [
