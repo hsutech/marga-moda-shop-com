@@ -1,6 +1,6 @@
 {
   "domain": "margamodashop.com",
-  "lastRunAt": "2026-08-16T10:12:00+02:00",
+  "lastRunAt": "2026-08-18T14:56:00+02:00",
   "items": [
     {
       "keyword": "mejores tiendas de ropa en Petrer",
@@ -633,6 +633,77 @@
         ],
         "browserRender": "No browser connector was available in this environment; local and public HTML/CSS/image checks passed."
       }
+    },
+    {
+      "keyword": "dónde comprar vestidos de invitada en Alicante",
+      "priority": "Media",
+      "slug": "donde-comprar-vestidos-invitada-alicante",
+      "title": "Dónde comprar vestidos de invitada en Alicante",
+      "url": "https://margamodashop.com/blog/donde-comprar-vestidos-invitada-alicante/",
+      "status": "published",
+      "selectedAt": "2026-08-18",
+      "publicationAttemptedAt": "2026-08-18",
+      "serp": {
+        "market": "Google ES / Petrer, Elda y Alicante",
+        "language": "Español",
+        "observations": [
+          "La SERP actual mezcla boutiques de ceremonia, tiendas con cita, directorios de vestidos de fiesta, marcas con tienda fisica y recursos de comercio local de Alicante.",
+          "La intencion dominante es BOFU local: la usuaria quiere decidir donde ir a comprar, si pedir cita, que zona recorrer y como evitar riesgos con tallas, arreglos, plazos y complementos.",
+          "Los resultados de boutique suelen ser visuales y orientados a coleccion/contacto; los directorios ayudan a localizar negocios pero no sustituyen verificar disponibilidad ni condiciones.",
+          "Calle Gerona aparece como eje relevante para ceremonia, moda, calzado y complementos; el centro tradicional amplía la ruta con Bazan, Calle del Teatro, Susana Llaneras y Maisonnave.",
+          "Gap cubierto: guia local de decision y ruta, no ranking absoluto, con criterios de cita, ajustes, complementos y comparacion por tipo de evento sin inventar reseñas, precios ni stock."
+        ],
+        "sources": [
+          "https://www.anacanizares.com/",
+          "https://www.lapepaalicante.com/collections/productos",
+          "https://www.hannasurmesure.es/",
+          "https://www.pronovias.com/es/tiendas/alicante",
+          "https://lepaonblanc.es/",
+          "https://www.bodas.net/bodas/novias/trajes-fiesta/alicante/alacant-alicante",
+          "https://www.rosanacanto.com/",
+          "https://alicantezonagerona.com/",
+          "https://www.alicante.es/es/contenidos/directorio-establecimientos-alicante-0"
+        ]
+      },
+      "internalLinks": [
+        "/collections/vestidos-y-monos/",
+        "/collections/conjuntos/",
+        "/collections/bolsos/",
+        "/collections/calzado/",
+        "/blog/mejores-tiendas-ropa-petrer/",
+        "/blog/mejores-tiendas-ropa-elda/",
+        "/blog/mejores-boutiques-moda-alicante/"
+      ],
+      "externalLinks": [
+        "https://www.alicante.es/es/contenidos/directorio-establecimientos-alicante-0",
+        "https://www.anacanizares.com/",
+        "https://www.hannasurmesure.es/",
+        "https://www.pronovias.com/es/tiendas/alicante"
+      ],
+      "assets": [
+        "/assets/donde-comprar-vestidos-invitada-alicante.jpg"
+      ],
+      "notes": [
+        "Angle intentionally differs from mejores boutiques de moda en Alicante by focusing on where to buy wedding guest dresses, appointment readiness, fitting risk, alterations and accessories.",
+        "Featured image generated with built-in imagegen as an editorial boutique scene; it is not evidence of real inventory or a real store.",
+        "No YouTube video embedded because current SERP did not surface a specific reliable official video that improved the local buying decision."
+      ],
+      "publishedAt": "2026-08-18",
+      "verifiedAt": "2026-08-18T14:56:00+02:00",
+      "commit": "0594d8c",
+      "verification": {
+        "publicUrl": "https://margamodashop.com/blog/donde-comprar-vestidos-invitada-alicante/",
+        "checks": [
+          "HTTP 200 for article on custom domain",
+          "Expected H1 present",
+          "Self-referencing canonical present",
+          "OG image references featured image",
+          "Featured image HTTP 200 image/jpeg",
+          "Blog index contains article URL",
+          "Sitemap contains article URL with 2026-08-18 lastmod",
+          "Magnific campaign backlink still appears exactly once, followed, with required anchor and destination"
+        ]
+      }
     }
   ],
   "extraCampaigns": [
@@ -796,7 +867,7 @@
       }
     }
   ],
-  "lastUpdated": "2026-08-14",
+  "lastUpdated": "2026-08-18",
   "articles": [
     {
       "keyword": "cómo elegir zapatillas de puntera ancha para vestir sin parecer deportivas",
