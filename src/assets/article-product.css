@@ -1,0 +1,149 @@
+.campaign-new-card {
+  max-width: 1120px;
+  margin: 0 auto 40px;
+  padding: 24px;
+  border: 1px solid rgba(80, 80, 80, .25);
+}
+
+.campaign-new-card > a {
+  display: grid;
+  grid-template-columns: minmax(0, 360px) minmax(0, 1fr);
+  gap: 24px;
+  align-items: center;
+}
+
+.campaign-new-card img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+.campaign-new-card small {
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: var(--violet);
+}
+
+.campaign-new-card strong {
+  display: block;
+  margin: 10px 0;
+  font-family: var(--display);
+  font-size: clamp(1.4rem, 3vw, 2.2rem);
+  font-style: italic;
+  font-weight: 400;
+  line-height: 1.12;
+}
+
+.article-content h3 {
+  margin: 34px 0 12px;
+  font-family: var(--display);
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.featured figcaption {
+  margin-top: 10px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.affiliate-note {
+  padding: 20px 22px;
+  border-left: 3px solid var(--violet);
+  background: rgba(255, 255, 255, .55);
+  font-size: 15px !important;
+}
+
+.product-facts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+  margin: 34px 0;
+  border: 1px solid var(--line);
+  background: var(--line);
+}
+
+.product-facts span {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 20px;
+  background: rgba(255, 255, 255, .68);
+  color: var(--muted);
+}
+
+.product-facts strong {
+  color: var(--violet);
+  font-size: 10px;
+  letter-spacing: .24em;
+  text-transform: uppercase;
+}
+
+.product-cta {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 32px;
+  align-items: center;
+  margin: 54px 0;
+  padding: 34px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, .48);
+}
+
+.product-cta h2 {
+  margin: 0 0 12px;
+  font-size: 34px;
+}
+
+.product-cta p {
+  margin-bottom: 0;
+}
+
+.product-cta .button {
+  width: max-content;
+  color: #fff;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.author-box {
+  margin-top: 48px;
+  padding: 24px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.author-box strong {
+  display: block;
+  margin-bottom: 8px;
+  font-family: var(--display);
+  font-size: 24px;
+  font-style: italic;
+}
+
+.author-box p {
+  margin: 0;
+  font-size: 16px;
+}
+
+@media (max-width: 680px) {
+  .campaign-new-card {
+    margin: 0 18px 32px;
+    padding: 18px;
+  }
+
+  .campaign-new-card > a,
+  .product-facts,
+  .product-cta {
+    grid-template-columns: 1fr;
+  }
+
+  .product-cta {
+    padding: 24px;
+  }
+
+  .product-cta .button {
+    width: 100%;
+  }
+}
